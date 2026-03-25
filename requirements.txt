@@ -1,0 +1,13 @@
+
+
+numpy  # Fast numerical arrays and vectorized math operations
+pandas  # DataFrames for cleaning, transforming, and analyzing tabular data
+scipy  # Scientific routines (optimization, stats, signal processing, etc.)
+statsmodels  # Classical statistical modeling and hypothesis testing
+scikit-learn  # Machine learning algorithms, preprocessing, and evaluation tools
+
+matplotlib  # Core plotting library for static charts
+seaborn  # High-level statistical visualizations built on matplotlib
+plotly  # Interactive charts for exploration in notebooks
+
+openpyxl  # Excel .xlsx read/write engine used by pandas
