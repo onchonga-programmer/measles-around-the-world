@@ -1,5 +1,8 @@
 
 
+jupyter  # Launch and run Jupyter Notebook/Lab environments
+ipykernel  # Register this environment as a selectable Jupyter kernel in VS Code
+
 numpy  # Fast numerical arrays and vectorized math operations
 pandas  # DataFrames for cleaning, transforming, and analyzing tabular data
 scipy  # Scientific routines (optimization, stats, signal processing, etc.)
