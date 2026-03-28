@@ -1,0 +1,23 @@
+{
+  "monthly_rows_raw": 22780,
+  "monthly_rows_clean": 22780,
+  "yearly_rows": 2382,
+  "monthly_raw_duplicates": 0,
+  "monthly_clean_duplicates": 0,
+  "yearly_duplicates": 0,
+  "yearly_missing_total_suspected_cases": 87,
+  "yearly_missing_discarded_rate": 408,
+  "yearly_surveillance_missing_rows": 0,
+  "yearly_measles_breakdown_missing_rows": 0,
+  "yearly_suspect_mismatch_rows": 13,
+  "top_region_by_measles": "AFRO",
+  "top_region_measles_cases": 901018,
+  "top_country_by_measles": "India",
+  "top_country_measles_cases": 474525,
+  "max_year_measles": 2019,
+  "max_year_measles_cases": 541401,
+  "min_year_measles": 2021,
+  "min_year_measles_cases": 59619,
+  "monthly_date_start": "2012-01-01",
+  "monthly_date_end": "2025-06-01"
+}

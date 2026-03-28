@@ -1,0 +1,12 @@
+metric,value
+monthly_raw_rows,22780
+monthly_clean_rows,22780
+yearly_rows,2382
+monthly_raw_duplicates,0
+monthly_clean_duplicates,0
+yearly_duplicates,0
+yearly_missing_total_suspected_cases,87
+yearly_missing_discarded_rate,408
+yearly_surveillance_missing_rows,0
+yearly_measles_breakdown_missing_rows,0
+yearly_suspect_mismatch_rows,13
